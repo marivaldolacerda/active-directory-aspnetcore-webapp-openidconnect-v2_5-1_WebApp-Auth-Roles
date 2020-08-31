@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-active_directory_aspnetcore_webapp_openidconnect_v2_5_1_WebApp_Auth_Roles-D1BCB185-1C34-4C80-B5D0-24B99BB92A10</UserSecretsId>
+    <WebProject_DirectoryAccessLevelKey>0</WebProject_DirectoryAccessLevelKey>
+    <RootNamespace>active_directory_aspnetcore_webapp_openidconnect_v2_5_1_WebApp_Auth_Roles</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.AzureAD.UI" Version="3.1.7" />
+  </ItemGroup>
+
+</Project>
